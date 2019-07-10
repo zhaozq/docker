@@ -1,0 +1,14 @@
+rls
+ls
+ls
+ls
+ls
+./dotpng *
+./dotpng *
+./dotpng d.dot x.dot
+make
+ls
+dotpng sub.dot
+ls
+open sub.png 
+dotpng sub.dot

@@ -1,0 +1,468 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/Users/" . "zhaozq/")
+ ("/Users/zhaozq/Sources/build/bochs-2.6.8/iodev/" . "hdimage/")
+ ("/Users/zhaozq/Sources/build/bochs-2.6.8/" . "iodev/")
+ ("/Users/zhaozq/Sources/build/bochs-2.6.9/iodev/" . "network/")
+ ("/Users/zhaozq/Sources/build/bochs-2.6.9/" . "iodev/")
+ ("/Users/zhaozq/Sources/build/" . "bochs-2.6.8/")
+ ("/Users/zhaozq/Workspaces/bigcat/work/173-_c_expression-loading-error-on-ubuntu/tests/" . "ut/")
+ ("/Users/zhaozq/Workspaces/bigcat/work/173-_c_expression-loading-error-on-ubuntu/" . "tests/")
+ ("/Users/zhaozq/Workspaces/bigcat/work/127-draw-give-type-for-const-node/src/" . "ir/")
+ ("/Users/zhaozq/Workspaces/bigcat/work/127-draw-give-type-for-const-node/tests/ut/" . "parse/")
+ ("/Users/zhaozq/Workspaces/bigcat/work/127-draw-give-type-for-const-node/tests/" . "ut/")
+ ("/Users/zhaozq/Workspaces/bigcat/work/127-draw-give-type-for-const-node/" . "tests/")
+ ("/Users/zhaozq/Workspaces/test/vis/" . "dist/")
+ ("/Users/zhaozq/Workspaces/bigcat/work/121-draw-using-imporvement/build/me/tests/" . "ut/")
+ ("/Users/zhaozq/Workspaces/bigcat/work/121-draw-using-imporvement/build/me/" . "tests/")
+ ("/Users/zhaozq/Workspaces/bigcat/work/121-draw-using-imporvement/build/" . "me/")
+ ("/Users/zhaozq/Workspaces/bigcat/work/121-draw-using-imporvement/src/" . "draw/")
+ ("/Users/zhaozq/Workspaces/bigcat/work/121-draw-using-imporvement/python/mindexpr/" . "parse/")
+ ("/Users/zhaozq/Workspaces/bigcat/work/121-draw-using-imporvement/python/" . "mindexpr/")
+ ("/Users/zhaozq/Workspaces/bigcat/work/121-draw-using-imporvement/tests/ut/" . "parser/")
+ ("/Users/zhaozq/Workspaces/bigcat/work/121-draw-using-imporvement/tests/" . "ut/")
+ ("/Users/zhaozq/Workspaces/bigcat/work/121-draw-using-imporvement/" . "src/")
+ ("/Users/zhaozq/Workspaces/bigcat/work/116-draw-change-input-seq-into-prot-way/tests/ut/" . "parser/")
+ ("/Users/zhaozq/Workspaces/bigcat/work/116-draw-change-input-seq-into-prot-way/tests/" . "ut/")
+ ("/Users/zhaozq/Workspaces/bigcat/work/116-draw-change-input-seq-into-prot-way/src/" . "ir/")
+ ("/Users/zhaozq/Workspaces/bigcat/work/116-draw-change-input-seq-into-prot-way/" . "src/")
+ ("/Users/zhaozq/Workspaces/bigcat/work/104-uniform-the-header-file-including-way/src/" . "operators/")
+ ("/Users/zhaozq/Workspaces/bigcat/work/104-uniform-the-header-file-including-way/tests/ut/" . "operators/")
+ ("/Users/zhaozq/Workspaces/bigcat/work/104-uniform-the-header-file-including-way/tests/" . "ut/")
+ ("/Users/zhaozq/Workspaces/bigcat/work/104-uniform-the-header-file-including-way/" . "src/")
+ ("/Users/zhaozq/Workspaces/bigcat/work/92-draw-need-draw-main-graph-and-children-graph/src/" . "ir/")
+ ("/Users/zhaozq/Workspaces/bigcat/work/92-draw-need-draw-main-graph-and-children-graph/python/mindexpr/" . "parse/")
+ ("/Users/zhaozq/Workspaces/bigcat/work/92-draw-need-draw-main-graph-and-children-graph/python/" . "mindexpr/")
+ ("/Users/zhaozq/Workspaces/bigcat/work/92-draw-need-draw-main-graph-and-children-graph/" . "src/")
+ ("/Users/zhaozq/Workspaces/bigcat/work/91-compiling-error-on-orderset/tests/" . "ut/")
+ ("/Users/zhaozq/Workspaces/bigcat/work/91-compiling-error-on-orderset/" . "tests/")
+ ("/Users/zhaozq/Workspaces/bigcat/work/20-print-graph/tests/" . "ut/")
+ ("/Users/zhaozq/Workspaces/bigcat/work/" . "20-print-graph/")
+ ("/Users/zhaozq/Workspaces/bigcat/work/88-uniform-the-cmakelists-txt/tests/" . "ut/")
+ ("/Users/zhaozq/Workspaces/bigcat/work/88-uniform-the-cmakelists-txt/src/" . "parse/")
+ ("/Users/zhaozq/Workspaces/bigcat/work/88-uniform-the-cmakelists-txt/" . "src/")
+ ("/Users/zhaozq/Workspaces/bigcat/work/86-uniform-all-ut-tests-to-one-binary/mindexpr/src/" . "parse/")
+ ("/Users/zhaozq/Workspaces/bigcat/work/86-uniform-all-ut-tests-to-one-binary/mindexpr/" . "tests/")
+ ("/Users/zhaozq/Workspaces/bigcat/work/86-uniform-all-ut-tests-to-one-binary/mindexpr/tests/ut/" . "parser/")
+ ("/Users/zhaozq/Workspaces/bigcat/work/86-uniform-all-ut-tests-to-one-binary/mindexpr/tests/" . "ut/")
+ ("/Users/zhaozq/Workspaces/bigcat/work/82-pytest-failed/mindexpr/src/" . "parse/")
+ ("/Users/zhaozq/Workspaces/bigcat/work/82-pytest-failed/mindexpr/python/" . "mindexpr/")
+ ("/Users/zhaozq/Workspaces/bigcat/work/82-pytest-failed/mindexpr/" . "python/")
+ ("/Users/zhaozq/Workspaces/bigcat/work/79-refactor-the-compiling-system/mindexpr/" . "src/")
+ ("/Users/zhaozq/Workspaces/bigcat/work/draw-dev/mindexpr/build/me/src/" . "parse/")
+ ("/Users/zhaozq/Workspaces/bigcat/work/draw-dev/mindexpr/build/me/" . "src/")
+ ("/Users/zhaozq/Workspaces/bigcat/work/draw-dev/mindexpr/build/" . "me/")
+ ("/Users/zhaozq/Workspaces/bigcat/work/draw-dev/mindexpr/src/" . "parse/")
+ ("/Users/zhaozq/Workspaces/bigcat/work/draw-dev/mindexpr/" . "src/")
+ ("/Users/zhaozq/Workspaces/bigcat/work/20-print-graph/build/me/src/" . "parse/")
+ ("/Users/zhaozq/Workspaces/bigcat/work/20-print-graph/build/me/" . "src/")
+ ("/Users/zhaozq/Workspaces/bigcat/work/20-print-graph/build/" . "me/")
+ ("/Users/zhaozq/Workspaces/bigcat/work/20-print-graph/" . "tests/")
+ ("/Users/zhaozq/Workspaces/bigcat/myia/myia/" . "debug/")
+ ("/Users/zhaozq/Workspaces/bigcat/myia/" . "myia/")
+ ("/Users/zhaozq/Workspaces/bigcat/" . "myia/")
+ ("/Users/zhaozq/Workspaces/" . "bigcat/")
+ ("/Users/zhaozq/Workspaces/bigcat/work/20-print-graph/src/" . "ir/")
+ ("/Users/zhaozq/Sources/" . "build/")
+ ("/Users/zhaozq/" . "Sources/")
+ ("/home/zhaozq/work/bigcat/work/33-pybind11-build-error/thirdparty/" . "pybind11/")
+ ("/home/zhaozq/work/bigcat/work/33-pybind11-build-error/src/" . "parse/")
+ ("/home/zhaozq/work/bigcat/work/33-pybind11-build-error/" . "src/")
+ ("/home/zhaozq/work/test/c++/libgo/libgo/" . "tutorial/")
+ ("/home/zhaozq/work/test/c++/libgo/test/" . "pmotato/")
+ ("/home/zhaozq/work/test/c++/libgo/" . "libgo/")
+ ("/home/zhaozq/work/test/c++/libgo/libgo/libgo/" . "common/")
+ ("/home/zhaozq/work/myia/digmyia/lib/python3.7/site-packages/myia-0.1a0-py3.7.egg/myia/" . "utils/")
+ ("/home/zhaozq/work/myia/digmyia/work/" . "test/")
+ ("/home/zhaozq/work/myia/digmyia/" . "work/")
+ ("/home/zhaozq/work/openjdk/learn/test/" . "oom/")
+ ("/home/zhaozq/work/openjdk/learn/openjdk/jdk/src/share/classes/java/" . "util/")
+ ("/home/zhaozq/work/openjdk/learn/openjdk/jdk/src/share/classes/" . "java/")
+ ("/home/zhaozq/work/openjdk/learn/openjdk/jdk/src/share/" . "classes/")
+ ("/home/zhaozq/work/openjdk/learn/openjdk/jdk/src/" . "share/")
+ ("/home/zhaozq/work/openjdk/learn/openjdk/jdk/" . "src/")
+ ("/home/zhaozq/work/openjdk/learn/openjdk/hotspot/make/" . "linux/")
+ ("/home/zhaozq/work/openjdk/learn/openjdk/hotspot/" . "make/")
+ ("/home/zhaozq/work/openjdk/learn/openjdk/" . "jdk/")
+ ("/home/zhaozq/work/apps/LiteOS_kernel/platform/" . "GD32F450i-EVAL/")
+ ("/home/zhaozq/work/apps/" . "LiteOS_kernel/")
+ ("/home/zhaozq/work/apps/LiteOS_kernel/kernel/cpu/arm/" . "cortex-m4/")
+ ("/home/zhaozq/work/apps/LiteOS_kernel/kernel/cpu/" . "arm/")
+ ("/home/zhaozq/work/apps/LiteOS_kernel/kernel/base/" . "include/")
+ ("/home/zhaozq/work/apps/LiteOS_kernel/kernel/link/" . "gcc/")
+ ("/home/zhaozq/work/apps/LiteOS_kernel/kernel/" . "base/")
+ ("/home/zhaozq/work/apps/LiteOS_kernel/" . "platform/")
+ ("/home/zhaozq/go1.8/src/internal/" . "trace/")
+ ("/home/zhaozq/otp/erts/emulator/" . "beam/")
+ ("/home/zhaozq/gcc-7.2.0/libgo/go/" . "runtime/")
+ ("/home/zhaozq/gcc-7.2.0/libgo/" . "go/")
+ ("/home/zhaozq/go1.8/src/net/http/" . "pprof/")
+ ("/home/zhaozq/go1.8/src/net/" . "http/")
+ ("/home/zhaozq/work/test/go/wb/go/src/" . "runtime/")
+ ("/home/zhaozq/work/test/go/wb/go/" . "src/")
+ ("/home/zhaozq/work/test/go/wb/" . "go/")
+ ("/home/zhaozq/work/go/signal/go1.8/src/os/" . "signal/")
+ ("/home/zhaozq/work/go/signal/go1.8/src/" . "os/")
+ ("/home/zhaozq/work/go/signal/go1.8/" . "src/")
+ ("/home/zhaozq/work/go/signal/" . "go1.8/")
+ ("/home/zhaozq/go1.8/src/cmd/internal/" . "browser/")
+ ("/home/zhaozq/go1.8/src/cmd/" . "internal/")
+ ("/home/zhaozq/work/test/go/compile/src/compile/internal/" . "gc/")
+ ("/home/zhaozq/work/test/go/" . "test-compile/")
+ ("/home/zhaozq/work/test/go/compile/" . "bin/")
+ ("/home/zhaozq/work/test/go/compile/src/compile/" . "internal/")
+ ("/home/zhaozq/work/test/go/compile/src/internal/" . "obj/")
+ ("/home/zhaozq/work/test/go/compile/src/" . "internal/")
+ ("/home/zhaozq/work/test/go/testinternal/src/cmd/compile2/internal/" . "pp/")
+ ("/home/zhaozq/work/test/go/testinternal/src/cmd/compile2/" . "internal/")
+ ("/home/zhaozq/work/test/go/testinternal/src/cmd/" . "compile2/")
+ ("/home/zhaozq/work/test/go/testinternal/src/" . "cmd/")
+ ("/home/zhaozq/work/test/go/testinternal/" . "src/")
+ ("/home/zhaozq/soft/apps/go1.8/src/" . "reflect/")
+ ("/home/zhaozq/soft/apps/go1.8/" . "src/")
+ ("/home/zhaozq/soft/apps/" . "go1.8/")
+ ("/home/zhaozq/soft/" . "apps/")
+ ("/home/zhaozq/work/test/go/pinnedtype/go1.8/src/" . "runtime/")
+ ("/home/zhaozq/work/test/go/pinnedtype/go1.8/" . "src/")
+ ("/home/zhaozq/work/test/go/pinnedtype/" . "go1.8/")
+ ("/home/zhaozq/work/test/go/classforname/1/go1.8/src/" . "runtime/")
+ ("/home/zhaozq/work/test/go/classforname/1/go1.8/" . "src/")
+ ("/home/zhaozq/work/test/go/classforname/1/" . "go1.8/")
+ ("/var/www/html/votesys/" . "js/")
+ ("/var/www/html/whatdidyoudo/" . "js/")
+ ("/var/www/html/" . "votesys/")
+ ("/home/zhaozq/go1.8/src/io/" . "ioutil/")
+ ("/home/zhaozq/work/test/go/panic/src/" . "tt/")
+ ("/home/zhaozq/work/test/go/panic/" . "src/")
+ ("/home/zhaozq/work/test/go/setname/src/" . "prctl/")
+ ("/home/zhaozq/work/test/go/setname/" . "src/")
+ ("/home/zhaozq/go1.8/src/" . "internal/")
+ ("/home/zhaozq/go1.8/" . "src/")
+ ("/home/zhaozq/go1.8/src/runtime/" . "debug/")
+ ("/home/" . "zhaozq/")
+ ("/home/zhaozq/src/go/src/go/" . "token/")
+ ("/home/zhaozq/src/" . "go/")
+ ("/home/zhaozq/src/go/" . "src/")
+ ("/home/zhaozq/src/go/src/runtime/internal/" . "atomic/")
+ ("/home/zhaozq/src/go/src/runtime/" . "internal/")
+ ("/home/zhaozq/src/go/src/cmd/compile/internal/" . "amd64/")
+ ("/home/zhaozq/src/go/src/cmd/compile/" . "internal/")
+ ("/home/zhaozq/src/go/src/cmd/" . "compile/")
+ ("/home/zhaozq/src/go/src/" . "testing/")
+ ("/home/zhaozq/work/src/go/src/cmd/compile/internal/" . "ssa/")
+ ("/home/zhaozq/work/src/go/src/cmd/" . "dist/")
+ ("/home/zhaozq/work/src/go/src/" . "io/")
+ ("/home/zhaozq/src/go/go/src/go/" . "types/")
+ ("/home/zhaozq/work/test/go/go/src/go/" . "token/")
+ ("/home/zhaozq/work/test/go/token/src/" . "token/")
+ ("/home/zhaozq/work/test/go/token/" . "src/")
+ ("/home/zhaozq/work/test/benchmark/mandelbrot/" . "ma/")
+ ("/home/zhaozq/work/test/cmake/t3/" . "lib/")
+ ("/home/zhaozq/work/test/cmake/t2/" . "src/")
+ ("/home/zhaozq/work/test/c/" . "print80/")
+ ("/home/zhaozq/work/test/asm/toupper/" . "bak/")
+ ("/home/zhaozq/work/test/asm/" . "print/")
+ ("/usr/include/" . "asm-generic/")
+ ("/usr/" . "include/")
+ ("/" . "home/")
+ ("/home/zhaozq/work/test/asm/maximum/" . "bak/")
+ ("/home/zhaozq/work/books/railstutorial-china.org/workspace/sample_app/db/" . "migrate/")
+ ("/home/zhaozq/work/books/railstutorial-china.org/workspace/sample_app/app/assets/" . "javascripts/")
+ ("/home/zhaozq/work/books/railstutorial-china.org/workspace/sample_app/config/" . "initializers/")
+ ("/home/zhaozq/work/books/railstutorial-china.org/workspace/" . "sample_app/")
+ ("/home/zhaozq/work/books/railstutorial-china.org/workspace/sample_app/test/" . "helpers/")
+ ("/home/zhaozq/work/books/railstutorial-china.org/workspace/sample_app/app/views/" . "users/")
+ ("/home/zhaozq/work/books/railstutorial-china.org/workspace/sample_app/app/" . "helpers/")
+ ("/home/zhaozq/work/books/railstutorial-china.org/workspace/sample_app/" . "app/")
+ ("/home/zhaozq/work/rails/blog/db/" . "migrate/")
+ ("/home/zhaozq/work/rails/blog/app/views/" . "comments/")
+ ("/home/zhaozq/work/rails/blog/app/" . "models/")
+ ("/home/zhaozq/work/rails/blog/" . "app/")
+ ("/home/zhaozq/work/fortran/wftrans/" . "src/")
+ ("/home/zhaozq/work/pi/" . "laib/")
+ ("/home/zhaozq/work/" . "pi/")
+ ("/home/zhaozq/xycz3/common/" . "src/")
+ ("/home/zhaozq/work/pi/laib/" . "inc/")
+ ("/home/zhaozq/xycz3/" . "common/")
+ ("/home/zhaozq/.emacs.d/soft/ac/" . "ac-dict/")
+ ("/home/zhaozq/.emacs.d/soft/" . "ac/")
+ ("/home/zhaozq/.emacs.d/" . "soft/")
+ ("/home/zhaozq/bin/" . "data/")
+ ("/home/zhaozq/" . "soft/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/Users/zhaozq/"
+ "/Users/zhaozq/Workspaces/test/mkos/boot/"
+ "/Users/zhaozq/Sources/build/bochs-2.6.8/"
+ "/Users/zhaozq/Sources/build/bochs-2.6.8/iodev/hdimage/"
+ "/Users/zhaozq/Sources/build/"
+ "/Users/zhaozq/Sources/build/bochs-2.6.9/iodev/network/"
+ "/Users/zhaozq/Sources/build/bochs-2.6.9/iodev/hdimage/"
+ "/Users/zhaozq/Workspaces/bigcat/work/173-_c_expression-loading-error-on-ubuntu/tests/ut/"
+ "/Users/zhaozq/Workspaces/test/vis/demo/"
+ "/Users/zhaozq/Workspaces/bigcat/work/127-draw-give-type-for-const-node/src/draw/"
+ "/Users/zhaozq/Workspaces/bigcat/work/127-draw-give-type-for-const-node/src/ir/"
+ "/Users/zhaozq/Workspaces/bigcat/work/127-draw-give-type-for-const-node/tests/ut/parse/"
+ "/Users/zhaozq/Workspaces/bigcat/work/127-draw-give-type-for-const-node/tests/ut/"
+ "/Users/zhaozq/Workspaces/test/vis/dist/"
+ "/Users/zhaozq/Workspaces/test/dot/subgraph/"
+ "/Users/zhaozq/Workspaces/bigcat/work/121-draw-using-imporvement/src/draw/"
+ "/Users/zhaozq/Workspaces/bigcat/work/121-draw-using-imporvement/build/me/tests/ut/"
+ "/Users/zhaozq/Workspaces/bigcat/work/121-draw-using-imporvement/src/ir/"
+ "/Users/zhaozq/Workspaces/bigcat/work/121-draw-using-imporvement/tests/ut/parser/"
+ "/Users/zhaozq/Workspaces/bigcat/work/121-draw-using-imporvement/python/mindexpr/parse/"
+ "/Users/zhaozq/Workspaces/bigcat/work/121-draw-using-imporvement/tests/ut/"
+ "/Users/zhaozq/Workspaces/test/dot/sclient/"
+ "/Users/zhaozq/Workspaces/bigcat/work/116-draw-change-input-seq-into-prot-way/src/ir/"
+ "/Users/zhaozq/Workspaces/bigcat/work/116-draw-change-input-seq-into-prot-way/src/draw/"
+ "/Users/zhaozq/Workspaces/bigcat/work/116-draw-change-input-seq-into-prot-way/tests/ut/parser/"
+ "/Users/zhaozq/Workspaces/test/dot/port/"
+ "/Users/zhaozq/Workspaces/bigcat/myia/myia/debug/"
+ "/Users/zhaozq/Workspaces/bigcat/work/104-uniform-the-header-file-including-way/src/operators/"
+ "/Users/zhaozq/Workspaces/bigcat/work/104-uniform-the-header-file-including-way/tests/ut/operators/"
+ "/Users/zhaozq/Workspaces/bigcat/work/104-uniform-the-header-file-including-way/src/infer/"
+ "/Users/zhaozq/Workspaces/bigcat/work/104-uniform-the-header-file-including-way/tests/ut/infer/"
+ "/Users/zhaozq/Workspaces/bigcat/work/104-uniform-the-header-file-including-way/tests/ut/parser/"
+ "/Users/zhaozq/Workspaces/bigcat/work/104-uniform-the-header-file-including-way/src/parse/"
+ "/Users/zhaozq/Workspaces/bigcat/work/104-uniform-the-header-file-including-way/tests/ut/utils/"
+ "/Users/zhaozq/Workspaces/bigcat/work/104-uniform-the-header-file-including-way/tests/ut/"
+ "/Users/zhaozq/Workspaces/bigcat/work/104-uniform-the-header-file-including-way/"
+ "/Users/zhaozq/Workspaces/bigcat/work/92-draw-need-draw-main-graph-and-children-graph/src/ir/"
+ "/Users/zhaozq/Workspaces/bigcat/work/92-draw-need-draw-main-graph-and-children-graph/tests/ut/"
+ "/Users/zhaozq/Workspaces/bigcat/work/92-draw-need-draw-main-graph-and-children-graph/src/draw/"
+ "/Users/zhaozq/Workspaces/bigcat/work/92-draw-need-draw-main-graph-and-children-graph/src/"
+ "/Users/zhaozq/Workspaces/bigcat/work/92-draw-need-draw-main-graph-and-children-graph/python/mindexpr/parse/"
+ "/Users/zhaozq/Workspaces/bigcat/work/91-compiling-error-on-orderset/tests/ut/"
+ "/Users/zhaozq/Workspaces/bigcat/work/88-uniform-the-cmakelists-txt/src/parse/"
+ "/Users/zhaozq/Workspaces/bigcat/work/88-uniform-the-cmakelists-txt/"
+ "/Users/zhaozq/Workspaces/bigcat/work/88-uniform-the-cmakelists-txt/src/"
+ "/Users/zhaozq/Workspaces/bigcat/work/88-uniform-the-cmakelists-txt/src/ir/"
+ "/Users/zhaozq/Workspaces/bigcat/work/88-uniform-the-cmakelists-txt/tests/ut/"
+ "/Users/zhaozq/Workspaces/bigcat/work/20-print-graph/tests/ut/"
+ "/Users/zhaozq/Workspaces/bigcat/work/88-uniform-the-cmakelists-txt/src/utils/"
+ "/Users/zhaozq/Workspaces/bigcat/work/88-uniform-the-cmakelists-txt/src/opt/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ ".zshrc"
+ "cbochsrc"
+ "bochsrc"
+ "makefile"
+ ".conf.macosx"
+ ".conf.macos"
+ "cdrom_osx.cc"
+ "build-bochs"
+ "eth_linux.cc"
+ "eth_socket.cc"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/Users/" (23664 47810 347356 418000) "Guest/" "Shared/" "zhaozq/" ".localized" "../" "./")
+
+ ("/Users/zhaozq/" (23703 37542 718603 564000) ".cmake/" ".conda/" ".viminfo" ".bash_history" ".gitconfig" ".python_history" "Downloads/" ".oh-my-zsh/" ".bash_profile" ".gitconfig.back" ".vscode/" ".zcompdump-赵志强的MacBook Pro-5.3.zhaozhiqiangdeMacBook-Pro.local.12247" "Documents/" ".keras/" ".zoomus/" ".Trash/" "Sources/" "Applications/" ".emacs" ".vimrc" "Movies/" ".ssh/" ".git-credentials" "Public/" ".bash_sessions/" ".emacs.d/" ".ShadowsocksX-NG/" "Workspaces/" ".oracle_jre_usage/" "Library/" "Desktop/" ".zsh_history" ".zcompdump-赵志强的MacBook Pro-5.3" "Pictures/" ".zshrc" ".sogouinput/" ".wget-hsts" ".CFUserTextEncoding" ".tmux.conf" ".DS_Store" ".docker/" "Softwares/" "Music/" "../" "./")
+
+ ("/Users/zhaozq/Workspaces/" (23702 12443 935384 408000) "poly/" "github.com/" "bigcat/" "test/" "docker/" "../" "./")
+
+ ("/Users/zhaozq/Workspaces/test/" (23702 14975 263719 512000) "git/" "cpp/" "vis/" "mkos/" "python/" "dot/" "../" "./")
+
+ ("/Users/zhaozq/Workspaces/test/mkos/" (23702 15830 112440 42000) "boot/" "../" "./")
+
+ ("/Users/zhaozq/Workspaces/test/mkos/boot/" (23703 37338 868638 717000) "boot.o" "boot.s" "makefile" "bochsrc" "boot" "boot.img" "../" "./")
+
+ ("/Users/zhaozq/Sources/build/bochs-2.6.8/" (23702 22319 91318 172000) "config.cc" "msrs.def" ".conf.amigaos" "bxversion.rc" "bochs" "aclocal.m4" "PARAM_TREE.txt" "Makefile.in" ".libs/" "bochs.h" "param_names.h" "build/" "pc_system.o" "crc.cc" "pc_system.h" "test_hfsplus" "bxversion.h" ".conf.macos" "docs-html/" ".conf.macosx" "bios/" "config.log" "doc/" "gdbstub.cc" "gui/" "ltdlconf.h.in" "load32bitOShack.o" "wxbochs.rc" "COPYING" "config.sub" "config.status" "iodev/" "ltdl-bochs.h" "TODO" "ltdl.c" "configure.in" "README" "pc_system.cc" "ltdlconf.h" "config.guess" "bximage" "config.h.in" "plugin.cc" "bx_debug/" ".conf.nothing" "disasm/" "extplugin.h" "crc.o" "CHANGES" "TESTFORM.txt" "patches/" "win32_enh_dbg.rc" "Makefile" ".conf.linux" ".conf.win32-cygwin" "cpu/" "logio.o" "configure" "instrument/" "config.h" "win32res.rc" "config.o" "tmpscript" "load32bitOShack.cc" "LICENSE" "logio.cc" "memory/" "host/" "plugin.h" "osdep.h" "README-wxWidgets" "plugin.o" "osdep.o" "ltmain.sh" "install-sh" ".conf.win32-vcpp" ".bochsrc" "bxversion.rc.in" "README-plugins" "cpudb.h" "bxversion.h.in" "osdep.cc" "README.rfb" "libtool" "misc/" ".conf.everything" "main.cc" "main.o" ".conf.sparc" "../" "./")
+
+ ("/Users/zhaozq/Sources/build/" (23702 18722 178611 838000) "bochs-2.6.8/" "build-bochs" "../" "./")
+
+ ("/Users/zhaozq/Sources/build/bochs-2.6.8/iodev/hdimage/" (23702 17666 370573 988000) "cdrom.cc" "vmware3.cc" "vpc-img.cc" "Makefile.in" "cdrom_win32.h" "cdrom_misc.h" "vmware4.h" "vmware4.o" "scsi_commands.h" "cdrom_amigaos.cc" "cdrom_osx.cc" "cdrom.o" "cdrom.h" "vmware3.h" "vmware3.o" "vbox.cc" "vvfat.o" "vvfat.h" "cdrom_misc.cc" "cdrom_osx.h" "vpc-img.o" "vpc-img.h" "Makefile" "vbox.h" "vbox.o" "cdrom_amigaos.h" "hdimage.h" "hdimage.o" "vvfat.cc" "cdrom_win32.cc" "hdimage.cc" "vmware4.cc" "../" "./")
+
+ ("/Users/zhaozq/Sources/build/bochs-2.6.8/iodev/" (23702 17665 306194 17000) "cmos.cc" "pci2isa.h" "pci2isa.o" "busmouse.h" "pci.cc" "scancodes.cc" "ioapic.cc" "Makefile.in" "parallel.h" "sound/" "parallel.o" "pci.o" "pci.h" "slowdown_timer.o" "pci_ide.cc" "slowdown_timer.h" "display/" "speaker.h" "speaker.o" "dma.cc" "pcidev.cc" "pit82c54.o" "pit82c54.h" "virt_timer.h" "unmapped.h" "unmapped.o" "virt_timer.o" "keyboard.o" "biosdev.h" "keyboard.h" "biosdev.o" "serial_raw.o" "pic.o" "serial_raw.h" "pic.h" "pci_ide.o" "ioapic.o" "pci_ide.h" "ioapic.h" "pcidev.h" "usb/" "serial.o" "serial.h" "busmouse.cc" "extfpuirq.cc" "extfpuirq.h" "extfpuirq.o" "libiodev.a" "serial.cc" "pit.h" "pit.o" "acpi.o" "pic.cc" "acpi.h" "gameport.h" "network/" "serial_raw.cc" "Makefile" "pci2isa.cc" "unmapped.cc" "floppy.o" "floppy.h" "iodebug.cc" "devices.cc" "biosdev.cc" "iodev.h" "acpi.cc" "keyboard.cc" "pit82c54.cc" "gameport.cc" "floppy.cc" "iodebug.o" "virt_timer.cc" "iodebug.h" "speaker.cc" "cmos.o" "cmos.h" "dma.o" "slowdown_timer.cc" "dma.h" "hdimage/" "devices.o" "pit.cc" "devices.txt" "scancodes.h" "scancodes.o" "harddrv.h" "harddrv.o" "harddrv.cc" "parallel.cc" "../" "./")
+
+ ("/Users/zhaozq/Sources/" (23702 12822 849826 304000) "src/" "zips/" "build/" "soft/" ".zshrc" ".DS_Store" "../" "./")
+
+ ("/Users/zhaozq/Sources/build/bochs-2.6.9/iodev/network/" (23702 14376 972421 462000) "eth_win32.cc" "Makefile.in" "e1000.cc" "eth_socket.cc" "pnic_api.h" "netmod.o" "netmod.h" "e1000.h" "e1000.o" "eth_tuntap.cc" "netutil.cc" "pcipnic.h" "ne2k.o" "ne2k.h" "netmod.cc" "eth_null.cc" "slirp/" "eth_slirp.o" "eth_vnet.o" "Makefile" "eth_linux.cc" "eth_vde.cc" "eth_slirp.cc" "eth_fbsd.cc" "eth_vnet.cc" "pcipnic.cc" "netutil.h" "ne2k.cc" "eth_null.o" "eth_tap.cc" "../" "./")
+
+ ("/Users/zhaozq/Sources/build/bochs-2.6.9/iodev/hdimage/" (23702 13890 509082 131000) "cdrom.cc" "vmware3.cc" "vpc-img.cc" "Makefile.in" "cdrom_win32.h" "cdrom_misc.h" "vmware4.h" "vmware4.o" "scsi_commands.h" "cdrom_amigaos.cc" "cdrom_osx.cc" "cdrom.o" "cdrom.h" "vmware3.h" "vmware3.o" "vbox.cc" "vvfat.o" "vvfat.h" "libhdimage.a" "cdrom_misc.cc" "cdrom_osx.h" "vpc-img.o" "vpc-img.h" "cdrom_osx.o" "Makefile" "vbox.h" "vbox.o" "cdrom_amigaos.h" "hdimage.h" "hdimage.o" "vvfat.cc" "cdrom_win32.cc" "hdimage.cc" "vmware4.cc" "../" "./")
+
+ ("/Users/zhaozq/Sources/build/bochs-2.6.9/iodev/" (23702 13657 191995 558000) "cmos.cc" "pci2isa.h" "pci2isa.o" "busmouse.h" "pci.cc" "scancodes.cc" "ioapic.cc" "Makefile.in" "parallel.h" "sound/" "parallel.o" "pci.o" "pci.h" "slowdown_timer.o" "pci_ide.cc" "slowdown_timer.h" "display/" "speaker.h" "speaker.o" "dma.cc" "pcidev.cc" "pit82c54.o" "pit82c54.h" "virt_timer.h" "unmapped.h" "unmapped.o" "virt_timer.o" "keyboard.o" "biosdev.h" "keyboard.h" "biosdev.o" "serial_raw.o" "pic.o" "serial_raw.h" "pic.h" "pci_ide.o" "ioapic.o" "pci_ide.h" "ioapic.h" "pcidev.h" "usb/" "serial.o" "serial.h" "busmouse.cc" "extfpuirq.cc" "extfpuirq.h" "extfpuirq.o" "libiodev.a" "serial.cc" "pit.h" "pit.o" "acpi.o" "pic.cc" "acpi.h" "gameport.h" "network/" "serial_raw.cc" "Makefile" "pci2isa.cc" "unmapped.cc" "floppy.o" "floppy.h" "iodebug.cc" "devices.cc" "biosdev.cc" "iodev.h" "acpi.cc" "keyboard.cc" "pit82c54.cc" "gameport.cc" "floppy.cc" "iodebug.o" "virt_timer.cc" "iodebug.h" "speaker.cc" "cmos.o" "cmos.h" "dma.o" "slowdown_timer.cc" "dma.h" "hdimage/" "devices.o" "pit.cc" "devices.txt" "scancodes.h" "scancodes.o" "harddrv.h" "harddrv.o" "harddrv.cc" "parallel.cc" "../" "./")
+
+ ("/Users/zhaozq/Sources/build/bochs-2.6.9/" (23702 13651 738273 685000) "config.cc" "msrs.def" ".conf.amigaos" "bxversion.rc" "aclocal.m4" "PARAM_TREE.txt" "Makefile.in" "bochs.h" "param_names.h" "build/" "crc.cc" "pc_system.h" "bxversion.h" ".conf.macos" "docs-html/" ".conf.macosx" "bios/" "config.log" "doc/" "gdbstub.cc" "gui/" "ltdlconf.h.in" "wxbochs.rc" "qemu-queue.h" "COPYING" "config.sub" "config.status" "iodev/" "ltdl-bochs.h" "TODO" "ltdl.c" "configure.in" "README" "pc_system.cc" "ltdlconf.h" "config.guess" "config.h.in" "plugin.cc" "bx_debug/" ".conf.nothing" "disasm/" "extplugin.h" "CHANGES" "TESTFORM.txt" "patches/" "win32_enh_dbg.rc" "Makefile" ".conf.linux" ".conf.win32-cygwin" "cpu/" "configure" "instrument/" "config.h" "win32res.rc" "load32bitOShack.cc" "LICENSE" "logio.cc" "memory/" "host/" "plugin.h" "osdep.h" "README-wxWidgets" "ltmain.sh" "install-sh" ".conf.win32-vcpp" ".bochsrc" "bxversion.rc.in" "README-plugins" "cpudb.h" "bxversion.h.in" "osdep.cc" "README.rfb" "libtool" "misc/" ".conf.everything" "main.cc" ".conf.sparc" "../" "./")
+
+ ("/Users/zhaozq/Workspaces/bigcat/work/173-_c_expression-loading-error-on-ubuntu/src/" (23691 29528 1422 31000) "grad.h" "draw/" "resource/" "validator.cc" "mindexpr.cc" "tensor/" "opt/" "common.h" "prim/" "utils/" "parse/" "ir/" "validator.h" "operators/" "ad/" "CMakeLists.txt" "grad.cc" "pipeline/" "abstract/" "init.cc" "../" "./")
+
+ ("/Users/zhaozq/Workspaces/bigcat/work/173-_c_expression-loading-error-on-ubuntu/tests/ut/" (23691 27701 958223 676000) "ut_common.h" "tensor/" "opt/" "infer/" "runtest.sh" "prim/" "common/" "utils/" "parse/" "ut_common.cc" "ir/" "test_main.cc" "operators/" "ad/" "CMakeLists.txt" "abstract/" "../" "./")
+
+ ("/Users/zhaozq/Workspaces/bigcat/work/173-_c_expression-loading-error-on-ubuntu/tests/" (23691 27701 952280 485000) ".gitignore" "runtest.sh" "CMakeLists.txt" "ut/" "../" "./")
+
+ ("/Users/zhaozq/Workspaces/bigcat/work/173-_c_expression-loading-error-on-ubuntu/" (23691 27907 359582 704000) "src/" "autogen.sh" "thirdparty/" ".git/" "build/" "doc/" ".gitignore" "setup.py" "build.sh" "README.md" ".gitmodules" "tests/" "include/" "python/" ".pytest_cache/" "requirements.txt" "CMakeModule/" "CMakeLists.txt" "../" "./")
+
+ ("/Users/zhaozq/Workspaces/test/vis/demo/" (23687 41458 421789 671000) "graph3.js" "graph2.js" ".git/" "index.html" "graph.js" "../" "./")
+
+ ("/Users/zhaozq/Workspaces/bigcat/work/127-draw-give-type-for-const-node/src/draw/" (23685 65405 378748 846000) "draw.h" "draw.cc" "CMakeLists.txt" "../" "./")
+
+ ("/Users/zhaozq/Workspaces/bigcat/work/127-draw-give-type-for-const-node/src/ir/" (23685 53669 386771 347000) "anf.cc" "info.h" "dtype.h" "metagraph.h" "dtype.cc" "anf.h" "manager.h" "metagraph.cc" "clone.h" "manager.cc" "clone.cc" "CMakeLists.txt" "info.cc" "../" "./")
+
+ ("/Users/zhaozq/Workspaces/bigcat/work/127-draw-give-type-for-const-node/tests/ut/parse/" (23685 53999 662264 988000) "ut_resolve.cc" "ut_parser.cc" "../" "./")
+
+ ("/Users/zhaozq/Workspaces/bigcat/work/127-draw-give-type-for-const-node/tests/ut/" (23685 53911 867903 131000) "ut_common.h" "opt/" "infer/" "runtest.sh" "prim/" "utils/" "parse/" "ut_common.cc" "ir/" "operators/" "ad/" "CMakeLists.txt" "abstract/" "../" "./")
+
+ ("/Users/zhaozq/Workspaces/bigcat/work/127-draw-give-type-for-const-node/tests/" (23685 53669 402686 399000) ".gitignore" "runtest.sh" "CMakeLists.txt" "ut/" "../" "./")
+
+ ("/Users/zhaozq/Workspaces/bigcat/work/127-draw-give-type-for-const-node/" (23685 53787 126391 341000) "src/" "autogen.sh" "thirdparty/" ".git/" "build/" "doc/" "examples/" ".gitignore" "setup.py" "build.sh" "README.md" ".gitmodules" "tests/" "include/" "python/" "requirements.txt" "CMakeModule/" "CMakeLists.txt" "../" "./")
+
+ ("/Users/zhaozq/Workspaces/bigcat/work/127-draw-give-type-for-const-node/src/" (23685 53669 395643 241000) "grad.h" "draw/" "mindexpr.cc" "opt/" "infer/" "common.h" "prim/" "utils/" "parse/" "ir/" "operators/" "ad/" "CMakeLists.txt" "grad.cc" "pipeline/" "abstract/" "init.cc" "../" "./")
+
+ ("/Users/zhaozq/Workspaces/test/vis/dist/" (23007 25441 0 0) "vis-network.min.css" "vis.js.map" "vis.min.js" "vis.css" "vis-graph3d.min.js" "img/" "vis.min.css" "vis.map" "vis-timeline-graph2d.min.css" "vis-network.min.js" "vis.js" "vis-timeline-graph2d.min.js" "../" "./")
+
+ ("/Users/zhaozq/Workspaces/test/vis/" (23684 57979 337869 267000) "vis-4.21.0/" "dist/" "demo/" "../" "./")
+
+ ("/Users/zhaozq/Workspaces/test/dot/subgraph/" (23683 55115 254723 253000) "s.png" "s.dot" "d.svg" "s.svg" "sub.dot" "sub.svg" "sub.png" "../" "./")
+
+ ("/Users/zhaozq/Workspaces/bigcat/work/121-draw-using-imporvement/src/draw/" (23683 50312 712278 395000) "draw.h" "draw.cc" "CMakeLists.txt" "../" "./")
+
+ ("/Users/zhaozq/Workspaces/bigcat/work/121-draw-using-imporvement/build/me/tests/ut/" (23683 48458 413683 327000) "graph0.dot" "graph1.dot" "graph_if.dot" "graph0.png" "graph1.png" "graph_if.png" "ut_tests" "cmake_install.cmake" "Makefile" "CMakeFiles/" "../" "./")
+
+ ("/Users/zhaozq/Workspaces/bigcat/work/121-draw-using-imporvement/build/me/tests/" (23683 34554 340145 12000) "cmake_install.cmake" "Makefile" "CMakeFiles/" "ut/" "../" "./")
+
+ ("/Users/zhaozq/Workspaces/bigcat/work/121-draw-using-imporvement/build/me/" (23683 34554 358284 245000) "src/" "thirdparty/" "CMakeCache.txt" "tests/" "cmake_install.cmake" "Makefile" "CMakeFiles/" "../" "./")
+
+ ("/Users/zhaozq/Workspaces/bigcat/work/121-draw-using-imporvement/build/" (23683 34551 431528 158000) "thirdparty/" "build/" "me/" "../" "./")
+
+ ("/Users/zhaozq/Workspaces/bigcat/work/121-draw-using-imporvement/src/ir/" (23683 36012 551434 85000) "anf.cc" "info.h" "dtype.h" "metagraph.h" "dtype.cc" "anf.h" "manager.h" "metagraph.cc" "clone.h" "manager.cc" "clone.cc" "CMakeLists.txt" "info.cc" "../" "./")
+
+ ("/Users/zhaozq/Workspaces/bigcat/work/121-draw-using-imporvement/src/" (23683 19642 524321 18000) "grad.h" "draw/" "mindexpr.cc" "opt/" "infer/" "common.h" "prim/" "utils/" "parse/" "ir/" "operators/" "ad/" "CMakeLists.txt" "grad.cc" "pipeline/" "abstract/" "init.cc" "../" "./")
+
+ ("/Users/zhaozq/Workspaces/bigcat/work/121-draw-using-imporvement/tests/ut/parser/" (23683 35693 710733 256000) "ut_resolve.cc" "ut_parser.cc" "../" "./")
+
+ ("/Users/zhaozq/Workspaces/bigcat/work/121-draw-using-imporvement/python/mindexpr/parse/" (23683 19839 975847 872000) "namespace.py" "parser.py" "logger.py" "__pycache__/" "parser_test.py" "__init__.py" "composite_ops.py" "../" "./")
+
+ ("/Users/zhaozq/Workspaces/bigcat/work/121-draw-using-imporvement/python/mindexpr/" (23683 19839 896817 938000) "_c_expression.cpython-37m-darwin.so" "api.py" "__init__.py" "parse/" "../" "./")
+
+ ("/Users/zhaozq/Workspaces/bigcat/work/121-draw-using-imporvement/python/" (23683 19634 615956 857000) "mindexpr/" "tests/" "../" "./")
+
+ ("/Users/zhaozq/Workspaces/bigcat/work/121-draw-using-imporvement/tests/ut/" (23683 34512 836054 2000) "ut_common.h" "opt/" "infer/" "runtest.sh" "prim/" "parser/" "utils/" "ut_common.cc" "ir/" "operators/" "ad/" "CMakeLists.txt" "abstract/" "../" "./")
+
+ ("/Users/zhaozq/Workspaces/bigcat/work/121-draw-using-imporvement/tests/" (23683 19642 528964 435000) ".gitignore" "runtest.sh" "CMakeLists.txt" "ut/" "../" "./")
+
+ ("/Users/zhaozq/Workspaces/bigcat/work/121-draw-using-imporvement/" (23683 19748 654471 256000) "src/" "autogen.sh" "thirdparty/" ".git/" "build/" "doc/" "examples/" ".gitignore" "setup.py" "build.sh" "README.md" ".gitmodules" "tests/" "include/" "python/" "requirements.txt" "CMakeModule/" "CMakeLists.txt" "../" "./")
+
+ ("/Users/zhaozq/Workspaces/test/dot/sclient/" (23682 22908 672953 941000) "x.gv" "x.map" "x.gif" "makefile" "index.html" "../" "./")
+
+ ("/Users/zhaozq/Workspaces/bigcat/work/116-draw-change-input-seq-into-prot-way/src/ir/" (23682 8813 593291 413000) "anf.cc" "dtype.h" "metagraph.h" "dtype.cc" "anf.h" "manager.h" "metagraph.cc" "clone.h" "manager.cc" "clone.cc" "CMakeLists.txt" "../" "./")
+
+ ("/Users/zhaozq/Workspaces/bigcat/work/116-draw-change-input-seq-into-prot-way/src/draw/" (23682 9768 867465 503000) "draw.h" "draw.cc" "CMakeLists.txt" "../" "./")
+
+ ("/Users/zhaozq/Workspaces/bigcat/work/" (23682 8763 696169 949000) "77-restructure-draw-api/" "92-draw-need-draw-main-graph-and-children-graph/" "20-print-graph/" "116-draw-change-input-seq-into-prot-way/" "104-uniform-the-header-file-including-way/" "master/" "79-refactor-the-compiling-system/" "44-dfs/" "88-uniform-the-cmakelists-txt/" "82-pytest-failed/" "86-uniform-all-ut-tests-to-one-binary/" "91-compiling-error-on-orderset/" "../" "./")
+
+ ("/Users/zhaozq/Workspaces/bigcat/work/116-draw-change-input-seq-into-prot-way/src/" (23682 8813 599250 972000) "grad.h" "draw/" "mindexpr.cc" "opt/" "infer/" "common.h" "prim/" "utils/" "parse/" "ir/" "operators/" "ad/" "CMakeLists.txt" "grad.cc" "pipeline/" "abstract/" "init.cc" "../" "./")
+
+ ("/Users/zhaozq/Workspaces/bigcat/work/116-draw-change-input-seq-into-prot-way/" (23682 8838 868518 915000) "src/" "autogen.sh" "thirdparty/" ".git/" "build/" "doc/" "examples/" ".gitignore" "setup.py" "build.sh" "README.md" ".gitmodules" "tests/" "include/" "python/" "requirements.txt" "CMakeModule/" "CMakeLists.txt" "../" "./")
+
+ ("/Users/zhaozq/Workspaces/bigcat/work/116-draw-change-input-seq-into-prot-way/tests/" (23682 8813 606177 344000) ".gitignore" "runtest.sh" "CMakeLists.txt" "ut/" "../" "./")
+
+ ("/Users/zhaozq/Workspaces/bigcat/work/116-draw-change-input-seq-into-prot-way/tests/ut/" (23682 8871 606125 239000) "ut_common.h" "opt/" "infer/" "runtest.sh" "prim/" "parser/" "utils/" "ut_common.cc" "ir/" "operators/" "CMakeLists.txt" "abstract/" "../" "./")
+
+ ("/Users/zhaozq/Workspaces/bigcat/work/116-draw-change-input-seq-into-prot-way/tests/ut/parser/" (23682 5128 441728 355000) "ut_resolve.cc" "ut_parser.cc" "../" "./")
+
+ ("/Users/zhaozq/Workspaces/test/dot/port/" (23682 4062 236224 468000) "p.png" "p.dot" "makefile" "../" "./")
+
+ ("/Users/zhaozq/Workspaces/bigcat/myia/myia/debug/" (23676 51950 479650 9000) "finite_diff.py" "label.py" "utils.py" "__init__.py" "traceback.py" "graph_vis.py" "../" "./")
+
+ ("/Users/zhaozq/Workspaces/bigcat/myia/" (23676 52124 734350 741000) ".travis.yml" "myia/" ".git/" "README.rst" "model/" ".pydocstyle" ".gitignore" "setup.py" "docs/" ".coveragerc" "baseline/" "tests/" "requirements.conda" "example/" "CONTRIBUTING.rst" "requirements.txt" "LICENSE" "codecov.yml" "../" "./")
+
+ ("/Users/zhaozq/Workspaces/bigcat/" (23677 753 911558 177000) "myia/" "tvm/" "work/" "mindexpr/" "work-myia/" "../" "./")
+
+ ("/Users/zhaozq/Workspaces/test/python/" (23676 52532 547561 197000) "asttokens/" "graphviz/" "../" "./")
+
+ ("/Users/zhaozq/Workspaces/test/python/graphviz/" (23681 53160 493131 687000) "m.py" "makefile" "process.gv.pdf" "process.gv" "../" "./")
+
+ ("/Users/zhaozq/Workspaces/bigcat/work/104-uniform-the-header-file-including-way/src/operators/" (23680 53475 180287 361000) "composite.cc" "CMakeLists.txt" "composite.h" "../" "./")
+
+ ("/Users/zhaozq/Workspaces/bigcat/work/104-uniform-the-header-file-including-way/tests/ut/operators/" (23680 55392 704809 869000) "ut_composite.cc" "../" "./")
+
+ ("/Users/zhaozq/Workspaces/bigcat/work/104-uniform-the-header-file-including-way/tests/ut/" (23680 55355 384954 396000) "ut_common.h" "infer/" "runtest.sh" "prim/" "parser/" "utils/" "ut_common.cc" "ir/" "operators/" "CMakeLists.txt" "abstract/" "../" "./")
+
+ ("/Users/zhaozq/Workspaces/bigcat/work/104-uniform-the-header-file-including-way/src/infer/" (23680 53475 176290 708000) "dshape.cc" "dshape.h" "CMakeLists.txt" "../" "./")
+
+ ("/Users/zhaozq/Workspaces/bigcat/work/104-uniform-the-header-file-including-way/tests/ut/infer/" (23680 55257 136155 481000) "ut_dshape.cc" "../" "./")
+
+ ("/Users/zhaozq/Workspaces/bigcat/work/104-uniform-the-header-file-including-way/tests/ut/parser/" (23680 55105 991669 668000) "ut_resolve.cc" "ut_parser.cc" "../" "./")
+
+ ("/Users/zhaozq/Workspaces/bigcat/work/104-uniform-the-header-file-including-way/src/parse/" (23680 55091 516161 900000) "resolve.cc" "parse_base.h" "resolve.h" "parse_ast.h" "parse_ast.cc" "parse.h" "CMakeLists.txt" "parse.cc" "../" "./")
+
+ ("/Users/zhaozq/Workspaces/bigcat/work/104-uniform-the-header-file-including-way/tests/ut/utils/" (23680 54345 971486 815000) "ut_unify.cc" "ut_event.cc" "ut_any.cc" "ut_orderedset.cc" "ut_counter.cc" "../" "./")
+
+ ("/Users/zhaozq/Workspaces/bigcat/work/104-uniform-the-header-file-including-way/tests/" (23680 53475 190059 340000) ".gitignore" "runtest.sh" "CMakeLists.txt" "ut/" "../" "./")
+
+ ("/Users/zhaozq/Workspaces/bigcat/work/104-uniform-the-header-file-including-way/" (23680 54582 238526 644000) "src/" "autogen.sh" "thirdparty/" ".git/" "build/" "doc/" "examples/" ".gitignore" "setup.py" "build.sh" "README.md" ".gitmodules" "tests/" "include/" "python/" "requirements.txt" "CMakeModule/" "CMakeLists.txt" "../" "./")
+
+ ("/Users/zhaozq/Workspaces/bigcat/work/104-uniform-the-header-file-including-way/src/" (23680 53475 185332 94000) "grad.h" "draw/" "mindexpr.cc" "opt/" "infer/" "common.h" "prim/" "utils/" "parse/" "ir/" "operators/" "ad/" "CMakeLists.txt" "grad.cc" "pipeline/" "abstract/" "init.cc" "../" "./")
+
+ ("/Users/zhaozq/Workspaces/bigcat/work/92-draw-need-draw-main-graph-and-children-graph/src/ir/" (23680 48975 160870 271000) "anf.cc" "dtype.h" "metagraph.h" "dtype.cc" "anf.h" "manager.h" "metagraph.cc" "clone.h" "manager.cc" "clone.cc" "CMakeLists.txt" "../" "./")
+
+ ("/Users/zhaozq/Workspaces/bigcat/work/92-draw-need-draw-main-graph-and-children-graph/src/utils/" (23680 48975 165594 116000) "logadapter.h" "visit.cc" "any.h" "graph_utils.h" "unify.h" "graph_utils.cc" "unify.cc" "overload.h" "visit.h" "misc.h" "event.h" "counter.h" "CMakeLists.txt" "orderedset.h" "logadapter.cc" "any.cc" "../" "./")
+
+ ("/Users/zhaozq/Workspaces/bigcat/work/92-draw-need-draw-main-graph-and-children-graph/src/" (23680 47897 564032 146000) "grad.h" "draw/" "mindexpr.cc" "opt/" "infer/" "common.h" "prim/" "utils/" "parse/" "ir/" "operators/" "ad/" "CMakeLists.txt" "grad.cc" "pipeline/" "abstract/" "init.cc" "../" "./")
+
+ ("/Users/zhaozq/Workspaces/bigcat/work/92-draw-need-draw-main-graph-and-children-graph/" (23680 47897 548473 567000) "src/" "autogen.sh" "thirdparty/" ".git/" "build/" "doc/" "examples/" ".gitignore" "setup.py" "build.sh" "README.md" ".gitmodules" "tests/" "include/" "python/" "requirements.txt" "CMakeModule/" "CMakeLists.txt" "../" "./")
+
+ ("/Users/zhaozq/Workspaces/bigcat/work/92-draw-need-draw-main-graph-and-children-graph/tests/" (23680 47897 569057 238000) ".gitignore" "runtest.sh" "CMakeLists.txt" "ut/" "../" "./")
+
+ ("/Users/zhaozq/Workspaces/bigcat/work/92-draw-need-draw-main-graph-and-children-graph/tests/ut/" (23680 47897 571595 763000) "ut_common.h" "infer/" "runtest.sh" "prim/" "parser/" "utils/" "ut_common.cc" "ir/" "operators/" "CMakeLists.txt" "abstract/" "../" "./")
+
+ ("/Users/zhaozq/Workspaces/bigcat/work/92-draw-need-draw-main-graph-and-children-graph/tests/ut/parser/" (23680 49031 229759 97000) "ut_resolve.cc" "ut_parser.cc" "../" "./")
+
+ ("/Users/zhaozq/Workspaces/bigcat/work/92-draw-need-draw-main-graph-and-children-graph/src/draw/" (23680 47774 906276 495000) "draw.h" "draw.cc" "CMakeLists.txt" "../" "./")
+
+ ("/Users/zhaozq/Workspaces/bigcat/work/92-draw-need-draw-main-graph-and-children-graph/python/mindexpr/" (23680 47481 873724 838000) "_c_expression.cpython-37m-darwin.so" "api.py" "__pycache__/" "__init__.py" "parse/" "../" "./")
+
+ ("/Users/zhaozq/Workspaces/bigcat/work/92-draw-need-draw-main-graph-and-children-graph/python/mindexpr/parse/" (23680 47474 597883 328000) "namespace.py" "parser.py" "logger.py" "__pycache__/" "__init__.py" "composite_ops.py" "../" "./")
+
+ ("/Users/zhaozq/Workspaces/bigcat/work/92-draw-need-draw-main-graph-and-children-graph/python/" (23680 47377 115724 403000) "setup.py" "README.md" "mindexpr/" "tests/" "requirements.txt" "../" "./")
+
+ ("/Users/zhaozq/Workspaces/bigcat/work/92-draw-need-draw-main-graph-and-children-graph/src/parse/" (23680 47377 123277 486000) "resolve.h" "parse_test.cpp" "parse_ast.h" "parse.h" "CMakeLists.txt" "parse_ast.cpp" "resolve.cpp" "parse.cc" "../" "./")
+
+ ("/Users/zhaozq/Workspaces/bigcat/work/91-compiling-error-on-orderset/tests/ut/" (23680 35302 521811 57000) "ut_common.h" "infer/" "runtest.sh" "prim/" "parser/" "utils/" "ut_common.cc" "ir/" "operators/" "CMakeLists.txt" "abstract/" "../" "./")
+
+ ("/Users/zhaozq/Workspaces/bigcat/work/91-compiling-error-on-orderset/tests/" (23680 35302 519671 171000) ".gitignore" "runtest.sh" "CMakeLists.txt" "ut/" "../" "./")
+
+ ("/Users/zhaozq/Workspaces/bigcat/work/91-compiling-error-on-orderset/" (23680 35339 196408 723000) "src/" "autogen.sh" "thirdparty/" ".git/" "build/" "doc/" "examples/" ".gitignore" "setup.py" "build.sh" "README.md" ".gitmodules" "tests/" "include/" "python/" "requirements.txt" "CMakeModule/" "CMakeLists.txt" "../" "./")
+
+ ("/Users/zhaozq/Workspaces/bigcat/work/91-compiling-error-on-orderset/src/" (23680 35302 516597 446000) "grad.h" "draw/" "mindexpr.cc" "opt/" "infer/" "common.h" "prim/" "utils/" "parse/" "ir/" "operators/" "ad/" "CMakeLists.txt" "grad.cc" "pipeline/" "abstract/" "init.cc" "../" "./")
+
+ ("/Users/zhaozq/Workspaces/bigcat/work/91-compiling-error-on-orderset/src/utils/" (23680 35374 178071 873000) "logadapter.h" "visit.cc" "any.h" "graph_utils.h" "unify.h" "graph_utils.cc" "unify.cc" "overload.h" "visit.h" "misc.h" "event.h" "counter.h" "CMakeLists.txt" "orderedset.h" "logadapter.cc" "any.cc" "../" "./")
+
+ ("/Users/zhaozq/Workspaces/bigcat/work/88-uniform-the-cmakelists-txt/src/parse/" (23679 38398 754010 660000) "resolve.cc" "resolve.h" "parse_test.cc" "parse_ast.h" "parse_ast.cc" "parse.h" "CMakeLists.txt" "parse.cc" "../" "./")
+
+ ("/Users/zhaozq/Workspaces/bigcat/work/88-uniform-the-cmakelists-txt/" (23679 45357 208838 323000) "src/" "autogen.sh" "thirdparty/" ".git/" "build/" "doc/" "examples/" ".gitignore" "setup.py" "build.sh" "README.md" ".gitmodules" "tests/" "include/" "python/" ".pytest_cache/" "requirements.txt" "CMakeModule/" "CMakeLists.txt" "../" "./")
+
+ ("/Users/zhaozq/Workspaces/bigcat/work/88-uniform-the-cmakelists-txt/src/ir/" (23679 36080 23498 509000) "anf.cc" "dtype.h" "metagraph.h" "dtype.cc" "anf.h" "manager.h" "metagraph.cc" "clone.h" "manager.cc" "clone.cc" "CMakeLists.txt" "../" "./")
+
+ ("/Users/zhaozq/Workspaces/bigcat/work/88-uniform-the-cmakelists-txt/src/" (23679 38356 369538 932000) "grad.h" "draw/" "mindexpr.cc" "opt/" "infer/" "common.h" "prim/" "utils/" "parse/" "ir/" "operators/" "ad/" "CMakeLists.txt" "grad.cc" "pipeline/" "abstract/" "init.cc" "../" "./")
+
+ ("/Users/zhaozq/Workspaces/bigcat/work/88-uniform-the-cmakelists-txt/tests/ut/" (23679 37096 200691 807000) "ut_common.h" "infer/" "runtest.sh" "prim/" "parser/" "utils/" "ut_common.cc" "ir/" "operators/" "CMakeLists.txt" "abstract/" "../" "./")
+
+ ("/Users/zhaozq/Workspaces/bigcat/work/88-uniform-the-cmakelists-txt/src/utils/" (23679 37159 529170 223000) "logadapter.h" "visit.cc" "any.h" "graph_utils.h" "unify.h" "graph_utils.cc" "unify.cc" "overload.h" "visit.h" "misc.h" "event.h" "counter.h" "CMakeLists.txt" "orderedset.h" "logadapter.cc" "any.cc" "../" "./")
+
+ ("/Users/zhaozq/Workspaces/bigcat/work/20-print-graph/tests/ut/" (23671 42628 331913 646000) "infer/" "runtest.sh" "prim/" "common/" "parser/" "utils/" "ir/" "operators/" "CMakeLists.txt" "../" "./")
+
+ ("/Users/zhaozq/Workspaces/bigcat/work/20-print-graph/tests/" (23667 25159 441014 866000) ".gitignore" "runtest.sh" "CMakeLists.txt" "ut/" "../" "./")
+
+ ("/Users/zhaozq/Workspaces/bigcat/work/88-uniform-the-cmakelists-txt/src/opt/" (23679 36948 405978 171000) "clean.cc" "cse.h" "lib.cc" "cconv.cc" "opt.cc" "opt.h" "lib.h" "cconv.h" "clean.h" "CMakeLists.txt" "cse.cc" "../" "./")
+
+ ("/Users/zhaozq/Workspaces/bigcat/work/88-uniform-the-cmakelists-txt/src/operators/" (23679 36884 679038 396000) "composite.cc" "CMakeLists.txt" "composite.h" "../" "./")
+
+ ("/Users/zhaozq/Workspaces/bigcat/work/88-uniform-the-cmakelists-txt/src/infer/" (23679 36821 502817 918000) "dshape.cc" "dshape.h" "CMakeLists.txt" "../" "./")
+
+ ("/Users/zhaozq/Workspaces/bigcat/work/88-uniform-the-cmakelists-txt/src/ad/" (23679 36795 190469 564000) "grad.h" "bprop_remapper.h" "graph_remapper.h" "fprop_remapper.h" "graph_remapper.cc" "ad_utils.h" "CMakeLists.txt" "grad.cc" "../" "./")
+
+ ("/Users/zhaozq/Workspaces/bigcat/work/88-uniform-the-cmakelists-txt/src/abstract/" (23679 36545 996320 596000) "prim.h" "prim.cc" "infer.cc" "utils.cc" "data.h" "CMakeLists.txt" "data.cc" "infer.h" "utils.h" "../" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t
